@@ -1,0 +1,10 @@
+Atbash, basit bir şifreleme algoritmasıdır. Bu şifreleme yöntemi, verilen metindeki harfleri yer değiştirerek şifreli bir metin oluşturur. Şifrelenen metin, orijinal metindeki harflerin alfabedeki ters sırasını kullanarak elde edilir.
+
+Atbash şifreleme algoritması şu adımları izler:
+
+Kullanıcıdan bir metin alınır.
+Metindeki her harf kontrol edilir:
+Eğer harf bir boşluk ise, şifreli metinde de boşluk olarak işaretlenir.
+Eğer harf bir harfse, o harfin alfabedeki tersi kullanılarak şifreli metindeki yerine yerleştirilir. Örneğin, 'a' harfi 'z' olarak şifrelenir, 'b' harfi 'y' olarak şifrelenir ve böyle devam eder.
+Şifrelenmiş metin ekrana yazdırılır.
+Atbash şifreleme yöntemi oldukça basittir ve güvenliği düşüktür. Çünkü her harf sabit bir değişime tabi tutulur ve tekrar eden desenler içerir.
