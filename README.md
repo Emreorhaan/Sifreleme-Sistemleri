@@ -21,7 +21,8 @@ Aşağıda, her şifreleme sistemi için ayrı ayrı kullanım adımları yer al
    - `atbash.c` dosyasını derleyin: `gcc -o atbash atbash.c`
    - Derlenmiş dosyayı çalıştırın: `./atbash`
    
-   - Doğrudan Dev-C++ gibi derleyiciler kullanarakta yapabilirsiniz.
+   
+   -  Veya doğrudan Dev-C++ gibi derleyiciler kullanarak yapabilirsiniz.
 
 
 ## Katkıda Bulunma
