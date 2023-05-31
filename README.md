@@ -6,9 +6,9 @@ Bu GitHub deposu, çeşitli şifreleme sistemlerini içeren C programlama dilind
 
 Şimdilik projede şu şifreleme sistemleri bulunmaktadır:
 
-1. **Atbash Şifreleme**: Metinleri Atbash şifreleme algoritmasını kullanarak şifreler veya çözer.
+1. **Atbash Şifreleme
 
-2. **Cezar Şifreleme**: Metinleri Cezar şifreleme algoritmasını kullanarak şifreler veya çözer.
+2. **Cezar Şifreleme
 
 ## Nasıl Kullanılır
 
