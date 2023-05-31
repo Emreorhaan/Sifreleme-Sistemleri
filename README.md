@@ -1,3 +1,3 @@
 # Şifreleme
-Bu repo'da bazı şifreleme yöntemlerinin programlama dili ile basitçe hazırlanmış kodlarını bulunmaktadır.
+Bu repo'da C dili ile yazılmış şifreleme yöntemlerinin kodlarını bulunmaktadır.
 (Zamanla Daha Fazlası Eklenecek)
