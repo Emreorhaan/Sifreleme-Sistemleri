@@ -4,7 +4,7 @@ Sezar şifreleme sistemi, en eski ve en basit şifreleme yöntemlerinden biridir
 
 ### Şifreleme Yöntemi
 
-Sezar şifreleme sisteminde, her harf anahtarda belirlenen değer kadar itelenir. Bu örnekte harf 3 harf ileri ilerletilerek şifrelenir. Örneğin, "a" harfi "d" harfiyle, "b" harfi "e" harfiyle yer değiştirilir ve bu şekilde devam eder.
+Sezar şifreleme sisteminde, her harf anahtarda belirlenen değer kadar itelenir. Aşağıdaki örnekte harf 3 harf ileri ilerletilerek şifrelenir. Örneğin, "a" harfi "d" harfiyle, "b" harfi "e" harfiyle yer değiştirilir ve bu şekilde devam eder.
 
 Aşağıda, İngiliz alfabesi için Sezar şifreleme örneği verilmiştir:
 
