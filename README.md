@@ -25,8 +25,4 @@ Aşağıda, her şifreleme sistemi için ayrı ayrı kullanım adımları yer al
    -  Veya doğrudan Dev-C++ gibi derleyiciler kullanarak yapabilirsiniz.
 
 
-## Katkıda Bulunma
-
-Bu proje açık kaynaklı bir projedir ve katkıda bulunmaktan mutluluk duyarız. Eğer yeni bir şifreleme sistemi eklemek veya mevcut olanları geliştirmek isterseniz, GitHub üzerinden bir "pull request" göndererek katkıda bulunabilirsiniz.
-
 
